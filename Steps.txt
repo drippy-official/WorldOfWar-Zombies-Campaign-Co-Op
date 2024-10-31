@@ -1,0 +1,23 @@
+Hello! I will show you the steps on downloading World Of War (T4).
+
+1#:
+Install "QBittorrent.exe",
+Accept the "Terms Of Agreement",
+Wait for it to finish.
+
+2#:
+Press "File",
+Add your torrent file (T4.torrent),
+Wait for it to finish (Seeding).
+
+3#:
+Download Plutonium.exe,
+Wait for it to download,
+Press "WaW Co-Op/Zombies",
+Press Setup,
+Find your T4 Folder which you have seeded,
+Press "Select Folder".
+
+4#:
+Enjoy!
+
